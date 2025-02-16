@@ -1,6 +1,6 @@
 # Quiz Management System
 
-Quiz Management System is a web-based system where teachers can create, manage, and view quizzes. The application is built using React for the frontend and TypeScript with Prisma ORM for the backend. The project follows a clean architecture and modern UI principles using ShadCN components.
+Quiz Management System is a web-based system where teachers can create, manage, and view quizzes. The application is built using React for the frontend and TypeScript with Prisma ORM for the backend. The project follows a clean architecture and modern UI principles using ShadCN components. The entire application is fully responsive, ensuring a seamless experience across devices from mobile phones to desktop computers.
 
 ## Features
 
